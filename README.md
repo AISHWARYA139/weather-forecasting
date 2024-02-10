@@ -1,1 +1,1 @@
-# weather-prediction-using-alerts
+# weather forecasting
